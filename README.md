@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/29165424/README.md)
+[README.md](https://github.com/user-attachments/files/29165473/README.md)
 <div align="center">
 
 <img src="./banner.svg" alt="xvdevelopment banner" width="100%" />
@@ -18,7 +18,7 @@ FiveM için optimize edilmiş, temiz kod yapısına sahip script'ler geliştiriy
 
 ```lua
 local xvdevelopment = {
-    works_with    = "ESX, QBCore, standalone",
+    works_with    = "QBCore",
     code_style    = "optimized, documented, no bloat",
     support       = "Discord üzerinden",
 }
@@ -30,11 +30,9 @@ local xvdevelopment = {
 
 > Her script aşağıda kendi reposuna ve mağaza linkine bağlı. Önizleme görselleri ilgili repo içinde.
 
-| script | açıklama | önizleme | mağaza |
-|---|---|---|---|
-| **script-adı-buraya** | kısa açıklama buraya gelecek | [repo](#) | [tebex'te satın al](#) |
-| **script-adı-buraya** | kısa açıklama buraya gelecek | [repo](#) | [tebex'te satın al](#) |
-| **script-adı-buraya** | kısa açıklama buraya gelecek | [repo](#) | [tebex'te satın al](#) |
+| script | açıklama | framework | önizleme | mağaza |
+|---|---|---|---|---|
+| **xv-skillsystem** | harita üzerindeki spor konumlarında antrenman yaparak güç, kondisyon ve ciğer kapasitesi gibi statları geliştirme sistemi. `F9` ile açılan tablodan tüm statlar takip edilebiliyor | QBCore | [repo](https://github.com/xvdevelopment/xv-skillsystem) | tebex hazırlanıyor |
 
 <br/>
 
